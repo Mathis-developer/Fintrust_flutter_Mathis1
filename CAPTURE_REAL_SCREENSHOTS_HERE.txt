@@ -1,0 +1,16 @@
+Capture screenshots from Flutter running in Android Studio emulator or your phone.
+01 Login
+02 Home Dashboard
+03 My Accounts
+04 Transaction History
+05 Money Transfer + Review Dialog
+06 Beneficiaries
+07 Scan & Pay
+08 Bill Payment + Demo Receipt
+09 Savings Goals
+10 Spending Analysis
+11 Notifications
+12 AI Assistant
+13 Profile and Security
+14 Settings + Dark Mode
+Do not submit the Figma reference image as Flutter runtime evidence.
